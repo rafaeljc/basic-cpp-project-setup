@@ -10,5 +10,6 @@ cd basic-cpp-project-setup
 mkdir build && cd build
 cmake ..
 make
+/tests/tests
 ./myproject
 ```
